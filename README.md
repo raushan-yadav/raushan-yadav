@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushan-yadav" alt="raushan-yadav" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Available soon](Available soon)
+- 👨‍💻 All of my projects are available at **Available Soon**
 
 - 📫 How to reach me **raushanofficial000@gmail.com**
 
