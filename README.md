@@ -3,13 +3,16 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="raushan-yadav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushan-yadav" alt="raushan-yadav" /></a> </p>
 
-- 👨‍💻 All of my projects are available at **>>>Available Soon<<<<**
+- 🌱 I’m currently learning **Framework,Devops**
 
-- 📫 How to reach me **>>>raushanofficial000@gmail.com<<<**
+- 👨‍💻 All of my projects are available at [>>Available soon<<](>>Available soon<<)
+
+- 📫 How to reach me **raushanofficial000@gmail.com**
 
 - ⚡ Fun fact **>>>I love the wonders and mysteries of life<<<**
 
@@ -18,7 +21,9 @@
 <a href="https://twitter.com/_raushan_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_raushan_yadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raushan-yadav-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raushan-yadav-/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/i.raushanyadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i.raushanyadav/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/raushan000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raushan000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/raushanyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/raushanyadav" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/raushanofficial000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raushanofficial000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raushan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raushan001" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@raushan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@raushan001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/raushan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="raushan001" height="30" width="40" /></a>
