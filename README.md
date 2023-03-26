@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at **>>>Available Soon<<<<**
 
-- 📫 How to reach me **raushanofficial000@gmail.com**
+- 📫 How to reach me **>>>raushanofficial000@gmail.com<<<**
 
-- ⚡ Fun fact **I love the wonders and mysteries of life**
+- ⚡ Fun fact **>>>I love the wonders and mysteries of life<<<**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
