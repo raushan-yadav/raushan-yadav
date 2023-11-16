@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushan-yadav" alt="raushan-yadav" /></a> </p>
 
-- 🌱 I’m currently learning **Framework,Devops**
+- 🌱 I’m currently learning **Pandas,Matplotlib and Seaborn**
 
 - 👨‍💻 All of my projects are available at [>>Available soon<<](>>Available soon<<)
 
