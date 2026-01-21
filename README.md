@@ -20,7 +20,6 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 ## 🚀 Featured Projects
 
 
----
 
 ### 🚆 SER Division Scheduling & Optimization (Operations Research)
 **Role Fit:** Operations Research · Optimization Analyst · Transportation Analytics  
