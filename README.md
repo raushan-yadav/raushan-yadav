@@ -27,7 +27,7 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 - Formulated a **Mixed Integer Linear Program (MILP)** using **Working Time Table (WTT)** data to minimize priority-weighted delays under single-line and junction constraints.
 
 🔗 GitHub: https://github.com/raushan-yadav/SER_Division_Scheduling-and-Optimization-using-OR-Model
-
+---
 
 ### 📈 Superstore Sales Forecast & Inventory Intelligence
 **Role Fit:** Data Analyst · Business Analyst · Supply Chain  
