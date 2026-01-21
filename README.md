@@ -24,7 +24,7 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 - Developed a **freight-prioritized railway scheduling model** for Chakradharpur Division, South Eastern Railway (SER).
 - Formulated a **Mixed Integer Linear Program (MILP)** using **Working Time Table (WTT)** data to minimize priority-weighted delays under single-line and junction constraints.
 
-🔗 GitHub: https://github.com/raushan-yadav/SER_Division_Scheduling-and-Optimization-using-OR-Model
+🔗 https://github.com/raushan-yadav/SER_Division_Scheduling-and-Optimization-using-OR-Model
 
 ---
 
