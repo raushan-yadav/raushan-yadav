@@ -17,6 +17,11 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 
 ---
 
+
+🔗 **All Links:** https://linktr.ee/raushan_yadav
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📈 Superstore Sales Forecast & Inventory Intelligence
@@ -73,9 +78,49 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 - **Version Control:** Git, GitHub  
 
 ---
+  
 
-## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/raushanyadav  
-- **Email:** raushanyadav1001@gmail.com  
+## 🌐 Connect with Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/raushanyadav" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/raushan-yadav" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+         alt="GitHub" height="30" width="40" />
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/_raushan_yadav" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+         alt="Twitter" height="30" width="40" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/i.raushanyadav/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram" height="30" width="40" />
+  </a>
+
+  <!-- Quora -->
+  <a href="https://www.quora.com/profile/Raushan-Yadav-13" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quora.svg"
+         alt="Quora" height="30" width="40" />
+  </a>
+  
+</p>
+
+## 📫 Contact
+
+📧 **Email:** raushanyadav1001@gmail.com  
+📞 **Phone:** +91 8789724223  
+🔗 **Linktree:** https://linktr.ee/raushan_yadav
+
+
 
 ⭐ *If you find my work useful, feel free to star the repositories.*
