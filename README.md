@@ -13,12 +13,7 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 - Business Analysis & Decision Support  
 - Operations Research & Optimization  
 - Supply Chain & Operations Analytics  
-- Forecasting & Inventory Planning  
-
----
-
-
-🔗 **All Links:** https://linktr.ee/raushan_yadav
+- Forecasting & Inventory Planning
 
 ---
 
