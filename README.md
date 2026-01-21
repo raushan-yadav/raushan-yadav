@@ -19,6 +19,17 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 
 ## 🚀 Featured Projects
 
+
+---
+
+### 🚆 SER Division Scheduling & Optimization (Operations Research)
+**Role Fit:** Operations Research · Optimization Analyst · Transportation Analytics  
+- Developed a **freight-prioritized railway scheduling model** for Chakradharpur Division, South Eastern Railway (SER).
+- Formulated a **Mixed Integer Linear Program (MILP)** using **Working Time Table (WTT)** data to minimize priority-weighted delays under single-line and junction constraints.
+
+🔗 GitHub: https://github.com/raushan-yadav/SER_Division_Scheduling-and-Optimization-using-OR-Model
+
+
 ### 📈 Superstore Sales Forecast & Inventory Intelligence
 **Role Fit:** Data Analyst · Business Analyst · Supply Chain  
 - Built **time-series forecasting models (Prophet)** to predict monthly sales trends.
