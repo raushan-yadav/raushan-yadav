@@ -9,11 +9,11 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 ---
 
 ## 🔍 What I Do
-- Data Analytics & Business Intelligence  
-- Business Analysis & Decision Support  
+- Data Analytics & Business Intelligence   
 - Operations Research & Optimization  
 - Supply Chain & Operations Analytics  
 - Forecasting & Inventory Planning
+- Business Analysis & Decision Support  
 
 ---
 
