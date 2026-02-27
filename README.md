@@ -1,6 +1,7 @@
 # Hi, I'm Raushan Yadav 👋
 
 🎓 **Industrial & Production Engineering Undergraduate — Research Intern at IIT Kharagpur**
+
 📊 **Data Analyst | Operations Research | Supply Chain Analytics | Optimization**
 
 I work at the intersection of **data, optimization, and business decision-making**.
