@@ -55,6 +55,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 - Built a custom **traffic simulation environment** modeling heterogeneous vehicles (cars, bikes, buses, autos) with PCU values, variable arrival patterns, and queue dynamics.
 - Implemented **Webster's formula** for MILP-based fixed-time optimization and trained a **DQN agent** (PyTorch) with experience replay and target networks for adaptive control.
 - RL agent achieved **~15–20% reduction in average delay per vehicle** by dynamically adjusting green phases based on real-time queue lengths and waiting times.
+- Tools: `Python` `PyTorch` `PuLP` `SUMO` `Reinforcement Learning (DQN)` `NumPy` `Matplotlib` `Google Colab`
 
 🔗 https://github.com/raushan-yadav/Traffic-Signal-Optimization
 
@@ -64,6 +65,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 **Role Fit:** Operations Research · Optimization Analyst · Transportation Analytics
 - Developed a **freight-prioritized railway scheduling model** for Chakradharpur Division, South Eastern Railway (SER).
 - Formulated a **Mixed Integer Linear Program (MILP)** using **Working Time Table (WTT)** data to minimize priority-weighted delays under single-line and junction constraints.
+- Tools: `Python` `PuLP` `CPLEX` `Gurobi` `Pandas` `NumPy` `Matplotlib` `QGIS` `LaTeX`
 
 🔗 https://github.com/raushan-yadav/SER_Division_Scheduling-and-Optimization-using-OR-Model
 
@@ -73,6 +75,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 **Role Fit:** Data Analyst · Business Analyst · Supply Chain
 - Built **time-series forecasting models (Prophet)** to predict monthly sales trends.
 - Developed **Power BI dashboards** to support inventory and product-level planning.
+- Tools: `Python` `Prophet` `Pandas` `Power BI` `Excel`
 
 🔗 https://github.com/raushan-yadav/Superstore-Sales-Forecast-Inventory-Intelligence
 
@@ -82,6 +85,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 **Role Fit:** Operations Research · Industrial Engineering
 - Optimized warehouse operations using **simulation-based process modeling**.
 - Achieved a **~4 hours reduction per shift** through worker allocation and layout redesign.
+- Tools: `Python` `Simulation Modeling` `Pandas` `Matplotlib` `Excel`
 
 🔗 https://github.com/raushan-yadav/Warehouse_Network_Optimization
 
@@ -91,6 +95,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 **Role Fit:** Business Analyst · Supply Chain Analyst
 - Analyzed **OT%, IF%, and OTIF%** service-level KPIs using Power BI.
 - Identified logistics bottlenecks impacting customer satisfaction and contract renewals.
+- Tools: `Power BI` `Excel` `DAX` `SQL`
 
 🔗 https://github.com/raushan-yadav/Data-Driven-Supply-Chain-Performance-Analysis
 
@@ -100,6 +105,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 **Role Fit:** Data Analyst · Business Analyst
 - Designed a **3NF normalized relational database** for restaurant transactions.
 - Performed SQL-based analysis on revenue trends and customer behavior.
+- Tools: `SQL` `MySQL` `Excel` `ER Diagram`
 
 🔗 https://github.com/raushan-yadav/Restaurant-Database-Management-System
 
@@ -109,6 +115,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 **Role Fit:** Operations Research · Optimization Analyst
 - Developed a Python framework for **resource-constrained task scheduling**.
 - Applied OR concepts including **precedence constraints, capacity limits, and Gantt visualization**.
+- Tools: `Python` `PuLP` `Pandas` `Matplotlib` `NumPy`
 
 🔗 https://github.com/raushan-yadav/Resource-Allocation-and-Task-Scheduling
 
