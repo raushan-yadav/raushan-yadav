@@ -4,29 +4,57 @@
 
 📊 **Data Analyst | Operations Research | Supply Chain Analytics | Optimization**
 
-I work at the intersection of **data, optimization, and business decision-making**.
-My interests and projects focus on **forecasting, performance analytics, simulation, mathematical modeling, and optimization** for real-world industrial, transportation, and supply chain problems.
+I work at the intersection of **data, optimization, and business decision-making** — turning raw numbers into actionable insights and building models that solve real-world industrial and operational challenges.
+
+My work spans **forecasting, mathematical optimization, simulation, machine learning, and NLP**, applied to domains like transportation, supply chain, inventory planning, and intelligent systems.
+
+> 💡 *I don't just analyze data — I build systems that make decisions smarter.*
 
 ---
 
 ## 🔍 What I Do
-- Data Analytics & Business Intelligence
-- Operations Research & Mathematical Optimization
-- Supply Chain & Operations Analytics
-- Forecasting & Inventory Planning
-- Reinforcement Learning & Intelligent Systems
-- Business Analysis & Decision Support
+
+| Domain | Focus Areas |
+|---|---|
+| 📊 Data Analytics & BI | Dashboards, KPI tracking, business intelligence |
+| ⚙️ Operations Research | MILP, scheduling, optimization, simulation |
+| 🚚 Supply Chain | OTIF analysis, demand forecasting, inventory planning |
+| 🤖 Machine Learning & NLP | Sentiment analysis, classification, text preprocessing |
+| 🔁 Reinforcement Learning | DQN agents, adaptive control, intelligent systems |
+| 🧮 Mathematical Modeling | Linear programming, integer programming, OR models |
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🐦 Twitter Sentiment Analysis
+**Role Fit:** Data Analyst · Machine Learning · NLP
+- Built a **binary sentiment classifier** trained on **1.6 million tweets** from the Sentiment140 dataset (Kaggle).
+- End-to-end NLP pipeline: raw tweet → cleaning → stopword removal → stemming → **TF-IDF vectorization** → **Logistic Regression**.
+- Achieved **77.6% test accuracy** (79% training accuracy) and deployed the model as a live **Streamlit web app**.
+- Tools: `Python` `NLTK` `Scikit-learn` `Pandas` `Streamlit`
+
+🔗 https://github.com/raushan-yadav/twitter-sentiment-analysis
+
+---
+
+### 🌐 Wikipedia Companies Web Scraping
+**Role Fit:** Data Analyst · Python Developer
+- Scraped and structured data of the **largest US companies by revenue** from Wikipedia using Python.
+- Used **Requests** and **BeautifulSoup** to extract HTML tables and **Pandas** to clean, process, and export the data.
+- Output: Production-ready **CSV dataset** with columns — Rank, Company Name, Industry, Revenue, Revenue Growth, Employees, and Headquarters.
+- Tools: `Python` `BeautifulSoup` `Requests` `Pandas` `Google Colab`
+
+🔗 https://github.com/raushan-yadav/wikipedia-company-web-scraper
+
+---
 
 ### 🚦 Traffic Signal Optimization: RL vs MILP (Intelligent Transportation)
 **Role Fit:** Operations Research · Reinforcement Learning · Smart City Analytics
 - Comparative study of **Mixed Integer Linear Programming (MILP)** vs **Deep Q-Learning (DQN)** for traffic signal control at a 4-way intersection under **Indian mixed-traffic conditions**.
 - Built a custom **traffic simulation environment** modeling heterogeneous vehicles (cars, bikes, buses, autos) with PCU values, variable arrival patterns, and queue dynamics.
 - Implemented **Webster's formula** for MILP-based fixed-time optimization and trained a **DQN agent** (PyTorch) with experience replay and target networks for adaptive control.
-- RL agent achieved **~15–20% reduction in average delay per vehicle** by dynamically extending/shortening green phases based on real-time queue lengths and waiting times.
+- RL agent achieved **~15–20% reduction in average delay per vehicle** by dynamically adjusting green phases based on real-time queue lengths and waiting times.
 
 🔗 https://github.com/raushan-yadav/Traffic-Signal-Optimization
 
@@ -86,33 +114,16 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 
 ---
 
-### 🌐 Wikipedia Companies Web Scraping
-**Role Fit:** Data Analyst · Python Developer
-- Scraped structured data of the **largest US companies by revenue** from Wikipedia using Python.
-- Used **Requests** and **BeautifulSoup** to extract tables and **Pandas** to process and export the data.
-- Output: Clean **CSV dataset** with columns — Rank, Company Name, Industry, Revenue, Revenue Growth, Number of Employees, and Headquarters.
-
-🔗 https://github.com/raushan-yadav/your-repo-link-here *(update link)*
-
----
-
-### 🐦 Twitter Sentiment Analysis
-**Role Fit:** Data Analyst · Machine Learning · NLP
-- Built a sentiment classifier trained on **1.6 million tweets** (Sentiment140 dataset from Kaggle).
-- Pipeline: text cleaning → stopword removal → stemming → **TF-IDF vectorization** → **Logistic Regression**.
-- Achieved **77.6% test accuracy** and deployed the model as an interactive **Streamlit web app**.
-
-🔗 https://github.com/raushan-yadav/your-repo-link-here *(update link)*
-
----
-
 ## 🛠️ Skills & Tools
 
 **Programming & Scripting**
 `Python` `SQL` `MATLAB` `LaTeX`
 
 **Python Libraries**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `PyTorch` `NLTK` `BeautifulSoup`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `PyTorch` `NLTK` `BeautifulSoup` `Requests`
+
+**Machine Learning & NLP**
+`Logistic Regression` `TF-IDF` `Sentiment Analysis` `Text Preprocessing` `Streamlit`
 
 **Optimization Solvers**
 `CPLEX` `Gurobi` `PuLP` `MILP` `Linear Programming` `Integer Programming`
@@ -125,9 +136,6 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 
 **Supply Chain**
 `OTIF` `Demand Forecasting` `Inventory Planning` `KPI Analysis`
-
-**Machine Learning & NLP**
-`Logistic Regression` `TF-IDF` `Sentiment Analysis` `Streamlit`
 
 **Version Control**
 `Git` `GitHub`
