@@ -86,13 +86,33 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 
 ---
 
+### 🌐 Wikipedia Companies Web Scraping
+**Role Fit:** Data Analyst · Python Developer
+- Scraped structured data of the **largest US companies by revenue** from Wikipedia using Python.
+- Used **Requests** and **BeautifulSoup** to extract tables and **Pandas** to process and export the data.
+- Output: Clean **CSV dataset** with columns — Rank, Company Name, Industry, Revenue, Revenue Growth, Number of Employees, and Headquarters.
+
+🔗 https://github.com/raushan-yadav/your-repo-link-here *(update link)*
+
+---
+
+### 🐦 Twitter Sentiment Analysis
+**Role Fit:** Data Analyst · Machine Learning · NLP
+- Built a sentiment classifier trained on **1.6 million tweets** (Sentiment140 dataset from Kaggle).
+- Pipeline: text cleaning → stopword removal → stemming → **TF-IDF vectorization** → **Logistic Regression**.
+- Achieved **77.6% test accuracy** and deployed the model as an interactive **Streamlit web app**.
+
+🔗 https://github.com/raushan-yadav/your-repo-link-here *(update link)*
+
+---
+
 ## 🛠️ Skills & Tools
 
 **Programming & Scripting**
 `Python` `SQL` `MATLAB` `LaTeX`
 
 **Python Libraries**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `PyTorch`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `PyTorch` `NLTK` `BeautifulSoup`
 
 **Optimization Solvers**
 `CPLEX` `Gurobi` `PuLP` `MILP` `Linear Programming` `Integer Programming`
@@ -105,6 +125,9 @@ My interests and projects focus on **forecasting, performance analytics, simulat
 
 **Supply Chain**
 `OTIF` `Demand Forecasting` `Inventory Planning` `KPI Analysis`
+
+**Machine Learning & NLP**
+`Logistic Regression` `TF-IDF` `Sentiment Analysis` `Streamlit`
 
 **Version Control**
 `Git` `GitHub`
