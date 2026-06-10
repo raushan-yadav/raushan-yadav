@@ -1,31 +1,31 @@
 # Hi, I'm Raushan Yadav 👋
 
-🎓 **Industrial & Production Engineering Undergraduate — Project Associate at IIT Delhi | Research Intern at IIT Kharagpur**
+🎓 **B.Tech Industrial & Production Engineering | IIT Delhi Project Associate | Ex-Intern @ TACO, IIT KGP**
 
 📊 **Data Analyst | Operations Research | Supply Chain Analytics | Optimization**
 
 I work at the intersection of **data, optimization, and business decision-making** — turning raw numbers into actionable insights and building models that solve real-world industrial and operational challenges.
 
-Currently at **IIT Delhi**, working on a Hyundai-funded EV project — building ML models for battery state-of-health (SOH) estimation and developing statistical frameworks for drive cycle analysis.
-
 My work spans **forecasting, mathematical optimization, simulation, machine learning, and NLP**, applied to domains like transportation, supply chain, inventory planning, and intelligent systems.
 
-> 💡 *I don't just analyze data — I build systems that make decisions smarter.*
+🔬 Currently working on **EV battery SOH estimation** (ML + thermal data) at IIT Delhi under a Hyundai-funded project, and **urban spatial analysis** for Tamil Nadu's Regional Plan 2047 at IIT Kharagpur.
 
+> 💡 *I don't just analyze data — I build systems that make decisions smarter.*
 ---
 
 ## 🔍 What I Do
 
 | Domain | Focus Areas |
 |---|---|
-| 📊 Data Analytics & BI | Dashboards, KPI tracking, business intelligence |
-| ⚙️ Operations Research | MILP, scheduling, optimization, simulation |
+| 📊 Data Analytics & BI | Dashboards, KPI tracking, Power BI, business intelligence |
+| ⚙️ Operations Research | MILP, train scheduling, optimization, PuLP/CPLEX/Gurobi |
 | 🚚 Supply Chain | OTIF analysis, demand forecasting, inventory planning |
-| 🤖 Machine Learning & NLP | Sentiment analysis, classification, text preprocessing |
-| 🔋 EV & Battery Analytics | SOH estimation, drive cycle analysis, ML on sensor data |
-| 🔁 Reinforcement Learning | DQN agents, adaptive control, intelligent systems |
-| 🧮 Mathematical Modeling | Linear programming, integer programming, OR models |
+| 🤖 Machine Learning & NLP | Churn prediction, classification, text preprocessing |
+| 🔋 EV & Battery Analytics | SOH estimation, drive cycle analysis, thermal data modeling |
+| 🗺️ Spatial Analysis | Land use mapping, QGIS, OpenStreetMap, regional planning |
+| 📐 Mathematical Modeling | Linear programming, integer programming, OR models |
 
+---
 ---
 
 ## 🚀 Featured Projects
@@ -154,27 +154,28 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 ## 🌐 Connect with Me
 
-
-
-
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
-
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/raushanyadav" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/raushan-yadav" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+         alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/_raushan_yadav" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+         alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/i.raushanyadav/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.quora.com/profile/Raushan-Yadav-13" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quora.svg"
+         alt="Quora" height="30" width="40" />
+  </a>
+</p>
 
 ## 📫 Contact
 
