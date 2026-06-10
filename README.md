@@ -1,10 +1,10 @@
 # Hi, I'm Raushan Yadav 👋
 
-🎓 **B.Tech. Industrial & Production Engineering | Project Associate @ IIT Delhi | Research Intern @ IIT Kharagpur**
+🎓 **Industrial & Production Engineering Undergraduate — Project Associate at IIT Delhi | Research Intern at IIT Kharagpur**
 
-📊 **Data Analyst · Operations Research · Supply Chain Analytics · Optimization**
+📊 **Data Analyst | Operations Research | Supply Chain Analytics | Optimization**
 
-I work at the intersection of **data, optimization, and engineering decisions** — turning raw numbers into actionable insights and building models that solve real-world industrial and operational challenges.
+I work at the intersection of **data, optimization, and business decision-making** — turning raw numbers into actionable insights and building models that solve real-world industrial and operational challenges.
 
 Currently at **IIT Delhi**, working on a Hyundai-funded EV project — building ML models for battery state-of-health (SOH) estimation and developing statistical frameworks for drive cycle analysis.
 
@@ -25,3 +25,163 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 | 🔋 EV & Battery Analytics | SOH estimation, drive cycle analysis, ML on sensor data |
 | 🔁 Reinforcement Learning | DQN agents, adaptive control, intelligent systems |
 | 🧮 Mathematical Modeling | Linear programming, integer programming, OR models |
+
+---
+
+## 🚀 Featured Projects
+
+### 🐦 Twitter Sentiment Analysis
+**Role Fit:** Data Analyst · Machine Learning · NLP
+- Built a **binary sentiment classifier** trained on **1.6 million tweets** from the Sentiment140 dataset (Kaggle).
+- End-to-end NLP pipeline: raw tweet → cleaning → stopword removal → stemming → **TF-IDF vectorization** → **Logistic Regression**.
+- Achieved **77.6% test accuracy** (79% training accuracy) and deployed the model as a live **Streamlit web app**.
+- Tools: `Python` `NLTK` `Scikit-learn` `Pandas` `Streamlit`
+
+🔗 https://github.com/raushan-yadav/twitter-sentiment-analysis
+
+---
+
+### 🌐 Wikipedia Companies Web Scraping
+**Role Fit:** Data Analyst · Python Developer
+- Scraped and structured data of the **largest US companies by revenue** from Wikipedia using Python.
+- Used **Requests** and **BeautifulSoup** to extract HTML tables and **Pandas** to clean, process, and export the data.
+- Output: Production-ready **CSV dataset** with columns — Rank, Company Name, Industry, Revenue, Revenue Growth, Employees, and Headquarters.
+- Tools: `Python` `BeautifulSoup` `Requests` `Pandas` `Google Colab`
+
+🔗 https://github.com/raushan-yadav/wikipedia-company-web-scraper
+
+---
+
+### 🚦 Traffic Signal Optimization: RL vs MILP (Intelligent Transportation)
+**Role Fit:** Operations Research · Reinforcement Learning · Smart City Analytics
+- Comparative study of **Mixed Integer Linear Programming (MILP)** vs **Deep Q-Learning (DQN)** for traffic signal control at a 4-way intersection under **Indian mixed-traffic conditions**.
+- Built a custom **traffic simulation environment** modeling heterogeneous vehicles (cars, bikes, buses, autos) with PCU values, variable arrival patterns, and queue dynamics.
+- Implemented **Webster's formula** for MILP-based fixed-time optimization and trained a **DQN agent** (PyTorch) with experience replay and target networks for adaptive control.
+- RL agent achieved **~15–20% reduction in average delay per vehicle** by dynamically adjusting green phases based on real-time queue lengths and waiting times.
+- Tools: `Python` `PyTorch` `PuLP` `SUMO` `Reinforcement Learning (DQN)` `NumPy` `Matplotlib` `Google Colab`
+
+🔗 https://github.com/raushan-yadav/Traffic-Signal-Optimization
+
+---
+
+### 🚆 SER Division Scheduling & Optimization (Operations Research)
+**Role Fit:** Operations Research · Optimization Analyst · Transportation Analytics
+- Developed a **freight-prioritized railway scheduling model** for Chakradharpur Division, South Eastern Railway (SER).
+- Formulated a **Mixed Integer Linear Program (MILP)** using **Working Time Table (WTT)** data to minimize priority-weighted delays under single-line and junction constraints.
+- Tools: `Python` `PuLP` `CPLEX` `Gurobi` `Pandas` `NumPy` `Matplotlib` `QGIS` `LaTeX`
+
+🔗 https://github.com/raushan-yadav/SER_Division_Scheduling-and-Optimization-using-OR-Model
+
+---
+
+### 📈 Superstore Sales Forecast & Inventory Intelligence
+**Role Fit:** Data Analyst · Business Analyst · Supply Chain
+- Built **time-series forecasting models (Prophet)** to predict monthly sales trends.
+- Developed **Power BI dashboards** to support inventory and product-level planning.
+- Tools: `Python` `Prophet` `Pandas` `Power BI` `Excel`
+
+🔗 https://github.com/raushan-yadav/Superstore-Sales-Forecast-Inventory-Intelligence
+
+---
+
+### 📦 Warehouse Network Optimization
+**Role Fit:** Operations Research · Industrial Engineering
+- Optimized warehouse operations using **simulation-based process modeling**.
+- Achieved a **~4 hours reduction per shift** through worker allocation and layout redesign.
+- Tools: `Python` `Simulation Modeling` `Pandas` `Matplotlib` `Excel`
+
+🔗 https://github.com/raushan-yadav/Warehouse_Network_Optimization
+
+---
+
+### 🚚 Supply Chain Performance Analysis (FMCG – AtliQ Mart)
+**Role Fit:** Business Analyst · Supply Chain Analyst
+- Analyzed **OT%, IF%, and OTIF%** service-level KPIs using Power BI.
+- Identified logistics bottlenecks impacting customer satisfaction and contract renewals.
+- Tools: `Power BI` `Excel` `DAX` `SQL`
+
+🔗 https://github.com/raushan-yadav/Data-Driven-Supply-Chain-Performance-Analysis
+
+---
+
+### 🗄️ Restaurant Database Management System (3NF)
+**Role Fit:** Data Analyst · Business Analyst
+- Designed a **3NF normalized relational database** for restaurant transactions.
+- Performed SQL-based analysis on revenue trends and customer behavior.
+- Tools: `SQL` `MySQL` `Excel` `ER Diagram`
+
+🔗 https://github.com/raushan-yadav/Restaurant-Database-Management-System
+
+---
+
+### 🧠 Resource Allocation & Task Scheduling Framework
+**Role Fit:** Operations Research · Optimization Analyst
+- Developed a Python framework for **resource-constrained task scheduling**.
+- Applied OR concepts including **precedence constraints, capacity limits, and Gantt visualization**.
+- Tools: `Python` `PuLP` `Pandas` `Matplotlib` `NumPy`
+
+🔗 https://github.com/raushan-yadav/Resource-Allocation-and-Task-Scheduling
+
+---
+
+## 🛠️ Skills & Tools
+
+**Programming & Scripting**
+`Python` `SQL` `MATLAB` `LaTeX`
+
+**Python Libraries**
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `PyTorch` `NLTK` `BeautifulSoup` `Requests`
+
+**Machine Learning & NLP**
+`Logistic Regression` `TF-IDF` `Sentiment Analysis` `Text Preprocessing` `Streamlit`
+
+**Optimization Solvers**
+`CPLEX` `Gurobi` `PuLP` `MILP` `Linear Programming` `Integer Programming`
+
+**Analytics & BI**
+`Power BI` `Tableau` `Excel`
+
+**Operations Research**
+`Optimization` `Scheduling` `Simulation` `Queueing Theory` `Reinforcement Learning` `DQN`
+
+**Supply Chain**
+`OTIF` `Demand Forecasting` `Inventory Planning` `KPI Analysis`
+
+**Version Control**
+`Git` `GitHub`
+
+---
+
+## 🌐 Connect with Me
+
+
+
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+
+
+
+## 📫 Contact
+
+📧 **Email:** raushanyadav1001@gmail.com
+📞 **Phone:** +91 8789724223
+🔗 **Linktree:** https://linktr.ee/raushan_yadav
+
+---
+
+⭐ *If you find my work useful, feel free to star the repositories.*
