@@ -8,7 +8,7 @@ I work at the intersection of **data, optimization, and business decision-making
 
 My work spans **forecasting, mathematical optimization, simulation, machine learning, and NLP**, applied to domains like transportation, supply chain, inventory planning, and intelligent systems.
 
-🔬 Currently working on **EV battery SOH estimation** (ML + thermal data) at IIT Delhi under a Hyundai-funded project, and **urban spatial analysis** for Tamil Nadu's Regional Plan 2047 at IIT Kharagpur.
+⚡ Currently working on **EV battery SOH estimation** (ML + thermal data) at IIT Delhi under a Hyundai-funded project, and **urban spatial analysis** for Tamil Nadu's Regional Plan 2047 at IIT Kharagpur.
 
 > 💡 *I don't just analyze data — I build systems that make decisions smarter.*
 ---
