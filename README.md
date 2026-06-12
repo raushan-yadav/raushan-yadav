@@ -11,12 +11,12 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 ⚡ Currently working on **EV battery SOH estimation** (ML + thermal data) at IIT Delhi under a Hyundai-funded project, and **urban spatial analysis** for Tamil Nadu's Regional Plan 2047 at IIT Kharagpur.
 
 > 💡 *I don't just analyze data — I build systems that make decisions smarter.*
----
+-
 
 ## 🔍 What I Do
 
 | Domain | Focus Areas |
-|---|---|
+|-|-|
 | 📊 Data Analytics & BI | Dashboards, KPI tracking, Power BI, business intelligence |
 | ⚙️ Operations Research | MILP, train scheduling, optimization, PuLP/CPLEX/Gurobi |
 | 🚚 Supply Chain | OTIF analysis, demand forecasting, inventory planning |
@@ -25,8 +25,8 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 | 🗺️ Spatial Analysis | Land use mapping, QGIS, OpenStreetMap, regional planning |
 | 📐 Mathematical Modeling | Linear programming, integer programming, OR models |
 
----
----
+-
+-
 
 ## 🚀 Featured Projects
 
@@ -39,7 +39,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 🔗 https://github.com/raushan-yadav/twitter-sentiment-analysis
 
----
+-
 
 ### 🌐 Wikipedia Companies Web Scraping
 **Role Fit:** Data Analyst · Python Developer
@@ -50,7 +50,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 🔗 https://github.com/raushan-yadav/wikipedia-company-web-scraper
 
----
+-
 
 ### 🚦 Traffic Signal Optimization: RL vs MILP (Intelligent Transportation)
 **Role Fit:** Operations Research · Reinforcement Learning · Smart City Analytics
@@ -62,7 +62,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 🔗 https://github.com/raushan-yadav/Traffic-Signal-Optimization
 
----
+-
 
 ### 🚆 SER Division Scheduling & Optimization (Operations Research)
 **Role Fit:** Operations Research · Optimization Analyst · Transportation Analytics
@@ -72,7 +72,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 🔗 https://github.com/raushan-yadav/SER_Division_Scheduling-and-Optimization-using-OR-Model
 
----
+-
 
 ### 📈 Superstore Sales Forecast & Inventory Intelligence
 **Role Fit:** Data Analyst · Business Analyst · Supply Chain
@@ -82,7 +82,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 🔗 https://github.com/raushan-yadav/Superstore-Sales-Forecast-Inventory-Intelligence
 
----
+-
 
 ### 📦 Warehouse Network Optimization
 **Role Fit:** Operations Research · Industrial Engineering
@@ -92,7 +92,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 🔗 https://github.com/raushan-yadav/Warehouse_Network_Optimization
 
----
+-
 
 ### 🚚 Supply Chain Performance Analysis (FMCG – AtliQ Mart)
 **Role Fit:** Business Analyst · Supply Chain Analyst
@@ -102,7 +102,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 🔗 https://github.com/raushan-yadav/Data-Driven-Supply-Chain-Performance-Analysis
 
----
+-
 
 ### 🗄️ Restaurant Database Management System (3NF)
 **Role Fit:** Data Analyst · Business Analyst
@@ -112,7 +112,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 🔗 https://github.com/raushan-yadav/Restaurant-Database-Management-System
 
----
+-
 
 ### 🧠 Resource Allocation & Task Scheduling Framework
 **Role Fit:** Operations Research · Optimization Analyst
@@ -122,7 +122,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 
 🔗 https://github.com/raushan-yadav/Resource-Allocation-and-Task-Scheduling
 
----
+-
 
 ## 🛠️ Skills & Tools
 
@@ -150,7 +150,7 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 **Version Control**
 `Git` `GitHub`
 
----
+-
 
 ## 🌐 Connect with Me
 
@@ -183,6 +183,6 @@ My work spans **forecasting, mathematical optimization, simulation, machine lear
 📞 **Phone:** +91 8789724223
 🔗 **Linktree:** https://linktr.ee/raushan_yadav
 
----
+-
 
 ⭐ *If you find my work useful, feel free to star the repositories.*
